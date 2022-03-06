@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/course-search-app/static/js/main.05544c0f.chunk.js",
+    "main.js.map": "/course-search-app/static/js/main.05544c0f.chunk.js.map",
+    "runtime-main.js": "/course-search-app/static/js/runtime-main.f51e51da.js",
+    "runtime-main.js.map": "/course-search-app/static/js/runtime-main.f51e51da.js.map",
+    "static/js/2.3b272764.chunk.js": "/course-search-app/static/js/2.3b272764.chunk.js",
+    "static/js/2.3b272764.chunk.js.map": "/course-search-app/static/js/2.3b272764.chunk.js.map",
+    "index.html": "/course-search-app/index.html",
+    "static/js/2.3b272764.chunk.js.LICENSE.txt": "/course-search-app/static/js/2.3b272764.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f51e51da.js",
+    "static/js/2.3b272764.chunk.js",
+    "static/js/main.05544c0f.chunk.js"
+  ]
+}
